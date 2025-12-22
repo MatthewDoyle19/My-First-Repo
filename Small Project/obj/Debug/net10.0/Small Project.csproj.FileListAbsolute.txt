@@ -1,0 +1,14 @@
+/Users/bateman/RiderProjects/Small Project/bin/Debug/net10.0/Small Project
+/Users/bateman/RiderProjects/Small Project/bin/Debug/net10.0/Small Project.deps.json
+/Users/bateman/RiderProjects/Small Project/bin/Debug/net10.0/Small Project.runtimeconfig.json
+/Users/bateman/RiderProjects/Small Project/bin/Debug/net10.0/Small Project.dll
+/Users/bateman/RiderProjects/Small Project/bin/Debug/net10.0/Small Project.pdb
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.AssemblyInfoInputs.cache
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.AssemblyInfo.cs
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.csproj.CoreCompileInputs.cache
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.dll
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/refint/Small Project.dll
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.pdb
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/Small Project.genruntimeconfig.cache
+/Users/bateman/RiderProjects/Small Project/obj/Debug/net10.0/ref/Small Project.dll
